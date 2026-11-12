@@ -298,7 +298,7 @@ a:focus-visible {
 
     background: var(--gold);
 
-    color: #090807;
+    color: white;
 
     transform: translateY(-3px);
 
