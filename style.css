@@ -12,7 +12,7 @@
 
 :root {
 
-    --background: #080807;
+    --background: #E8BBD8;
     --background-light: #10100e;
     --background-card: #151512;
 
@@ -21,7 +21,7 @@
     --gold-dark: #987448;
 
     --white: #ffffff;
-    --text: #e8e3dc;
+    --text: #111111;
     --text-muted: #aaa39a;
 
     --border: rgba(201, 163, 109, 0.25);
