@@ -16,7 +16,7 @@ const SITE_CONFIG = {
     whatsapp: "551199628-2258",
 
     // Instagram sem @
-    instagram: "_artesemclick",
+    instagram: "https://www.instagram.com/_artesemclick?dlrf=MXNhM2FiZWs5MmY2Yw==",
 
     // Mensagem inicial do WhatsApp
     whatsappMessage:
