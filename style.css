@@ -12,17 +12,31 @@
 
 :root {
 
+{
+
+    /* BACKGROUNDS */
+
     --background: #E8BBD8;
-    --background-light: #10100e;
-    --background-card: #151512;
 
-    --gold: #c9a36d;
-    --gold-light: #e5c79b;
-    --gold-dark: #987448;
+    --background-light: #F2D7E8;
 
-    --white: #ffffff;
+    --background-card: #F7E8F1;
+
+    /* PINK PALETTE */
+
+    --gold: #C77DAA;
+
+    --gold-light: #DFA9CA;
+
+    --gold-dark: #A85F8B;
+
+    /* TEXT COLORS */
+
+    --white: #FFFFFF;
+
     --text: #111111;
-    --text-muted: #aaa39a;
+
+    --text-muted: #705D69;
 
     --border: rgba(201, 163, 109, 0.25);
 
