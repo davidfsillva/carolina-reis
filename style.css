@@ -305,6 +305,11 @@ a:focus-visible {
 }
 
 
+.about-button {
+    color: #000000;
+}
+
+
 .btn-gold {
 
     background: linear-gradient(
