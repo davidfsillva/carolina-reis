@@ -1378,6 +1378,19 @@ a:focus-visible {
 
 }
 
+.contact-icon svg,
+.footer-social svg {
+    display: block;
+    width: 26px;
+    height: 26px;
+    color: var(--gold-dark);
+}
+
+.footer-social svg {
+    width: 20px;
+    height: 20px;
+}
+
 
 /* =========================================================
    09. CONTATO
