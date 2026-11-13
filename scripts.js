@@ -13,10 +13,10 @@
 const SITE_CONFIG = {
 
     // WhatsApp: código do país + DDD + número
-    whatsapp: "551199628-2258",
+    whatsapp: "5511996282258",
 
     // Instagram sem @
-    instagram: "https://www.instagram.com/_artesemclick?dlrf=MXNhM2FiZWs5MmY2Yw==",
+    instagram: "_artesemclick",
 
     // Mensagem inicial do WhatsApp
     whatsappMessage:
