@@ -653,6 +653,10 @@ a:focus-visible {
 
 }
 
+#portfolio {
+    scroll-margin-top: 0;
+}
+
 
 .hero-background {
 
