@@ -639,8 +639,8 @@ a:focus-visible {
     position: relative;
     display: flex;
     width: 100%;
-    min-height: 100vh;
-    min-height: 100svh;
+    height: 780px;
+    min-height: 780px;
     align-items: center;
     overflow: hidden;
     background: #111;
