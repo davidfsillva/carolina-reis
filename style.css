@@ -636,22 +636,16 @@ a:focus-visible {
    ========================================================= */
 
 .hero {
-
     position: relative;
-
     display: flex;
-
-    min-height: 690px;
-
-    height: min(780px, 100svh);
-
+    width: 100%;
+    min-height: 100vh;
+    min-height: 100svh;
     align-items: center;
-
     overflow: hidden;
-
     background: #111;
-
 }
+    
 
 #portfolio {
     scroll-margin-top: 0;
@@ -2169,13 +2163,11 @@ a:focus-visible {
     /* HERO */
 
     .hero {
-
-        min-height: 700px;
-
-        height: 90svh;
-
-        max-height: 850px;
-
+    min-height: 100vh;
+    min-height: 100svh;
+    height: auto;
+    max-height: none;
+       
     }
 
 
@@ -2535,13 +2527,11 @@ a:focus-visible {
     /* HERO */
 
     .hero {
-
-        min-height: 650px;
-
-        height: 88svh;
-
-        max-height: 760px;
-
+    min-height: 100vh;
+    min-height: 100svh;
+    height: auto;
+    max-height: none;
+       
     }
 
 
