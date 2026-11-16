@@ -3031,6 +3031,14 @@ a:focus-visible {
     }
 }
 
+/* AJUSTE DA FOTO DA HERO NO COMPUTADOR */
+@media (min-width: 769px) {
+    .hero-background img {
+        object-fit: contain;
+        object-position: center;
+    }
+}
+
 
 /* =========================================================
    FIM DO STYLE.CSS
